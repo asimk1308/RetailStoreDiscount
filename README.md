@@ -9,6 +9,8 @@ SpringBoot App with REST WebService method
 
 3. Please make a post call to "localhost:9090/getDiscountedBill" from any REST client (POSTMAN)
 
+4. SONARQUBE REPORT - https://sonarcloud.io/project/issues?id=asimk1308_RetailStoreDiscount&resolved=false
+
 ---------------------------------------
 Sample Json Input --
 {
