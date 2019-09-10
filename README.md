@@ -9,6 +9,7 @@ SpringBoot App with REST WebService method
 
 3. Please make a post call to "localhost:9090/getDiscountedBill" from any REST client (POSTMAN)
 
+---------------------------------------
 Sample Json Input --
 {
    "userType": "AFFILIATE",
@@ -28,5 +29,6 @@ Sample Json Input --
       }
    ]
 }
+----------------------------------------
 
 NOTE: Please dont give "userRegistrationDate" greater than current date.
